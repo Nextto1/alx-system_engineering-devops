@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# displaying a list of processes running currently
+# show all processes thats for all users, including those
+# and might not have a TTY
+# Displaying in a user-oriented format
+# Showing process hierarchy
+
+ps -auxf
